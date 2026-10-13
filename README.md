@@ -39,28 +39,19 @@ I'm a B.Tech student interested in software engineering, mobile applications, an
 
 ---
 
-## GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=false&rank_icon=github" alt="GitHub statistics" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&card_width=700" alt="GitHub Statistics" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=700" alt="Most Used Languages" />
 
 <br/><br/>
 
-<a href="https://github.com/utsavsh-0?tab=repositories">
-  <img src="https://img.shields.io/github/stars/utsavsh-0?style=for-the-badge&logo=github&label=STARS&color=E3B341" alt="GitHub stars" />
-</a>
-<a href="https://github.com/utsavsh-0?tab=followers">
-  <img src="https://img.shields.io/github/followers/utsavsh-0?style=for-the-badge&logo=github&label=FOLLOWERS&color=2F81F7" alt="GitHub followers" />
-</a>
-<a href="https://github.com/utsavsh-0?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-Explore-8957E5?style=for-the-badge&logo=github" alt="Explore repositories" />
-</a>
+<img width="85%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
