@@ -19,7 +19,7 @@ Building projects, exploring new technologies, and turning ideas into working so
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech student passionate about software development.
-- 🚀 Building projects and improving my development skills.
+- 🚀 Building projects and continuously improving my development skills.
 - 📱 Exploring Flutter, Dart, and mobile application development.
 - 🧠 Practicing Data Structures and Algorithms using C++.
 - 🛠️ Interested in creating practical applications with clean, maintainable code.
@@ -31,23 +31,25 @@ Building projects, exploring new technologies, and turning ideas into working so
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</div>
-
-<br/>
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/utsavsh-0?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/utsavsh-0?style=for-the-badge&logo=github&label=Followers&color=blue)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-View%20All-2f81f7?style=for-the-badge&logo=github)
+<img width="70%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+<div align="center">
+
+[![Total Stars](https://img.shields.io/github/stars/utsavsh-0?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)](https://github.com/utsavsh-0?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/utsavsh-0?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/utsavsh-0)
+
+[![Public Repositories](https://img.shields.io/badge/Public%20Repositories-Explore%20All-2f81f7?style=for-the-badge&logo=github)](https://github.com/utsavsh-0?tab=repositories)
 
 </div>
 
@@ -67,48 +69,54 @@ Building projects, exploring new technologies, and turning ideas into working so
 
 ## 🚀 Featured Projects
 
+### 💸 Expense Tracker
+
 <div align="center">
 
 <a href="https://github.com/UtsavSh-0/Expense_Tracker">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker Repository Card" />
 </a>
 
 </div>
 
-### 💸 Expense Tracker
+A mobile application project focused on recording expenses and managing daily spending.
 
-A Flutter-based mobile application for tracking expenses and managing daily spending.
-
-**Tech stack:** Flutter · Dart
-
-[Explore Repository →](https://github.com/UtsavSh-0/Expense_Tracker)
+- **Tech stack:** Flutter · Dart
+- **Repository:** [View on GitHub →](https://github.com/UtsavSh-0/Expense_Tracker)
 
 ---
+
+### 🛡️ Computer-Vision-Based Harassment Detection System
 
 <div align="center">
 
 <a href="https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Based Harassment Detection System" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Based Harassment Detection System Repository Card" />
 </a>
 
 </div>
 
-### 🛡️ Computer-Vision-Based Harassment Detection System
+A computer vision project designed to analyze CCTV footage and detect potentially unsafe activities using visual recognition and threat analysis techniques.
 
-A computer vision system designed to analyze CCTV footage and detect potentially unsafe activities using visual recognition and threat analysis techniques.
+- **Tech stack:** Python · OpenCV · MediaPipe · TensorFlow
+- **Repository:** [View on GitHub →](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
 
-**Tech stack:** Python · OpenCV · MediaPipe · TensorFlow
+---
 
-[Explore Repository →](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
+### 🌱 Soil2Action
+
+An AI-assisted soil health project designed to help farmers translate Soil Health Card information into practical farming recommendations.
+
+- **Tech stack:** Flutter · Dart · Python · FastAPI · OCR
+- **Status:** Project repository link to be added.
 
 ---
 
 <div align="center">
 
-[![Explore All Projects](https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/utsavsh-0?tab=repositories)
+[![Explore All Projects](https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utsavsh-0?tab=repositories)
 
 </div>
-
 
 ---
 
@@ -142,6 +150,8 @@ A computer vision system designed to analyze CCTV footage and detect potentially
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u1823452@gmail.com)
 
 </div>
+
+---
 
 <div align="center">
 
