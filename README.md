@@ -2,13 +2,13 @@
 
 # 👋 Hey, I'm Utsav Sharma
 
-### Developer • Problem Solver • Lifelong Learner
+### 💻 Developer | Problem Solver | Lifelong Learner
 
 Building projects, exploring new technologies, and turning ideas into working software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://utsavshhh.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/utsavsh-0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utsav-sharma-43b620382/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utsavsh-0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-sharma-43b620382/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utsavsh-0&label=Profile%20Views&color=0e75b6&style=flat-square)
 
@@ -19,32 +19,37 @@ Building projects, exploring new technologies, and turning ideas into working so
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech student passionate about software development.
-- 🚀 Currently building projects and improving my development skills.
+- 🚀 Building projects and improving my development skills.
 - 📱 Exploring Flutter, Dart, and mobile application development.
 - 🧠 Practicing Data Structures and Algorithms using C++.
-- 🛠️ Interested in building practical applications with clean, maintainable code.
+- 🛠️ Interested in creating practical applications with clean, maintainable code.
 - 🌐 Portfolio: [utsavshhh.netlify.app](https://utsavshhh.netlify.app/)
-- 📫 Reach me at **u1823452@gmail.com**
+- 📫 Email: **u1823452@gmail.com**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavsh-0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsh-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+</div>
 
 <br/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-<img width="49%" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futsavsh-0&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&logo=github&style=for-the-badge&color=2f81f7" alt="Total Public Repositories" />
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=utsavsh-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
-> **Note:** The statistics above reflect publicly available GitHub data. The language chart represents code distribution, not proficiency. Private repository activity may not be included.
+<br/>
+
+<div align="center">
+
+![Total Stars](https://img.shields.io/github/stars/utsavsh-0?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+![Followers](https://img.shields.io/github/followers/utsavsh-0?style=for-the-badge&logo=github&label=Followers&color=blue)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-View%20All-2f81f7?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
@@ -52,7 +57,9 @@ Building projects, exploring new technologies, and turning ideas into working so
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsavsh-0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution and Commit Activity Graph" />
+<a href="https://github.com/utsavsh-0">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsavsh-0&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</a>
 
 </div>
 
@@ -63,37 +70,33 @@ Building projects, exploring new technologies, and turning ideas into working so
 <div align="center">
 
 <a href="https://github.com/UtsavSh-0/Expense_Tracker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker Project" />
-</a>
-<a href="https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Based Harassment Detection System" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker Project" />
+</a><a href="https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Harassment Detection System" />
 </a>
 
 </div>
 
 ### 💸 Expense Tracker
 
-A Flutter application focused on recording and managing expenses with a mobile-friendly interface.
+A mobile application project focused on recording and managing expenses.
 
-**Tech:** Flutter · Dart
-
-[View Repository →](https://github.com/UtsavSh-0/Expense_Tracker)
+- **Tech stack:** Flutter, Dart
+- **Repository:** [Expense Tracker](https://github.com/UtsavSh-0/Expense_Tracker)
 
 ### 🛡️ Computer-Vision-Based Harassment Detection System
 
-A computer vision project exploring video analysis and automated detection of potentially unsafe situations.
+A computer vision project designed to analyze visual data and identify potentially unsafe situations.
 
-**Tech:** Python · OpenCV · MediaPipe · TensorFlow
-
-[View Repository →](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
+- **Tech stack:** Python, OpenCV, MediaPipe, TensorFlow
+- **Repository:** [View Project](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
 
 ### 🌱 Soil2Action
 
-An AI-assisted soil health project designed to help farmers translate soil health information into practical farming recommendations.
+An AI-assisted soil health project that aims to translate soil health information into actionable farming recommendations.
 
-**Tech:** Flutter · Dart · Python · FastAPI · OCR
-
-*Add the repository link here once the project is published.*
+- **Tech stack:** Flutter, Dart, Python, FastAPI, OCR
+- **Repository:** Add the project link once it is published.
 
 ---
 
@@ -107,7 +110,17 @@ An AI-assisted soil health project designed to help farmers translate soil healt
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=utsavsh-0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -122,6 +135,6 @@ An AI-assisted soil health project designed to help farmers translate soil healt
 
 ### 💡 Keep Building. Keep Learning. Keep Growing.
 
-*Thanks for stopping by! ⭐ Feel free to explore my repositories.*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 
 </div>
