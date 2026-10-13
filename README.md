@@ -70,33 +70,45 @@ Building projects, exploring new technologies, and turning ideas into working so
 <div align="center">
 
 <a href="https://github.com/UtsavSh-0/Expense_Tracker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker Project" />
-</a><a href="https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Harassment Detection System" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=Expense_Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker" />
 </a>
 
 </div>
 
 ### 💸 Expense Tracker
 
-A mobile application project focused on recording and managing expenses.
+A Flutter-based mobile application for tracking expenses and managing daily spending.
 
-- **Tech stack:** Flutter, Dart
-- **Repository:** [Expense Tracker](https://github.com/UtsavSh-0/Expense_Tracker)
+**Tech stack:** Flutter · Dart
+
+[Explore Repository →](https://github.com/UtsavSh-0/Expense_Tracker)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavSh-0&repo=COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM&theme=tokyonight&hide_border=true" alt="Computer Vision Based Harassment Detection System" />
+</a>
+
+</div>
 
 ### 🛡️ Computer-Vision-Based Harassment Detection System
 
-A computer vision project designed to analyze visual data and identify potentially unsafe situations.
+A computer vision system designed to analyze CCTV footage and detect potentially unsafe activities using visual recognition and threat analysis techniques.
 
-- **Tech stack:** Python, OpenCV, MediaPipe, TensorFlow
-- **Repository:** [View Project](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
+**Tech stack:** Python · OpenCV · MediaPipe · TensorFlow
 
-### 🌱 Soil2Action
+[Explore Repository →](https://github.com/UtsavSh-0/COMPUTER-VISION-BASED-HARASSMENT-DETECTION-SYSTEM)
 
-An AI-assisted soil health project that aims to translate soil health information into actionable farming recommendations.
+---
 
-- **Tech stack:** Flutter, Dart, Python, FastAPI, OCR
-- **Repository:** Add the project link once it is published.
+<div align="center">
+
+[![Explore All Projects](https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/utsavsh-0?tab=repositories)
+
+</div>
+
 
 ---
 
