@@ -2,7 +2,7 @@
 
 # UTSAV SHARMA
 
-### Software Developer in Progress · Mobile Development · Problem Solving
+### Software Developer in Progress · Development · Problem Solving
 
 I build practical projects, explore new technologies, and turn ideas into working software.
 
